@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|c:\\users\\admins\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\week4\\week4\\infrustucture\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|solutionrelative:week4\\infrustucture\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|c:\\users\\admins\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\week4\\week4\\domain\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|solutionrelative:week4\\domain\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|c:\\users\\admins\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\week4\\week4\\domain\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|solutionrelative:week4\\domain\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|c:\\users\\admins\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\week4\\week4\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|solutionrelative:week4\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|c:\\users\\admins\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\week4\\week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A90389-2634-47CD-ACE4-E8115B7454E3}|Week4\\Week4.csproj|solutionrelative:week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Professor.cs",
+              "RelativeDocumentMoniker": "Week4\\Domain\\Professor.cs",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Professor.cs",
+              "RelativeToolTip": "Week4\\Domain\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:37:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Major.cs",
+              "RelativeDocumentMoniker": "Week4\\Domain\\Major.cs",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Major.cs",
+              "RelativeToolTip": "Week4\\Domain\\Major.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:23:25.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "Week4\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Domain\\Student.cs",
+              "RelativeToolTip": "Week4\\Domain\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:15:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Infrustucture\\DbContext.cs",
+              "RelativeDocumentMoniker": "Week4\\Infrustucture\\DbContext.cs",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Infrustucture\\DbContext.cs",
+              "RelativeToolTip": "Week4\\Infrustucture\\DbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:07:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Program.cs",
+              "RelativeDocumentMoniker": "Week4\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMINS\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\Week4\\Week4\\Program.cs",
+              "RelativeToolTip": "Week4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:36:29.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
