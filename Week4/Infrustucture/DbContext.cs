@@ -12,6 +12,8 @@ namespace Week4.Infrastructure
         public DbSet<Student> Student { get; set; }
         public DbSet<Professor> Professors { get; set; }
         public DbSet<Major> Majors { get; set; }
+        public DbSet<Class> Classes { get; set; }
+        public DbSet<BehaviorScore> behaviorScores { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
