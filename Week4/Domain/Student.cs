@@ -16,6 +16,8 @@ namespace Week4.Domain
         public required Professor Professor { get; set; }
 
         public int MajorID { get; set; }
-        public required Major Major { get; set; } 
+        public required Major Major { get; set; }
+
+        public ICollection<StudentClass>? StudentClasses { get; set; }
     }
 }

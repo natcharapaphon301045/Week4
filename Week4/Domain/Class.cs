@@ -11,5 +11,7 @@ namespace Week4.Domain
         public required string ClassName { get; set; }
         public int ProfessorID { get; set; }
         public required Professor Professor { get; set; }
+
+        public ICollection<StudentClass>? StudentClasses { get; set; }
     }
 }
